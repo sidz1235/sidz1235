@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidz1235
 - 👀 I’m interested in Contributing and learning new.
-- 🌱 I’m currently learning mastery of courses from B.E.
+- 🌱 I’m Learning for Perfection.
 - 💞️ I’m looking to collaborate on JavaScript and Python issues.
 - 📫 siddhusandy149@gmail.com
 
